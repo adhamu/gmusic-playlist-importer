@@ -9,6 +9,7 @@ This is a modified version of Simon Weber's playlist importer for Google Play Mu
 
 ## Requirements
 - Python >= 2.7
+- [My forked version of `gmusicapi`](https://github.com/adhamu/gmusicapi) which fixes a couple of bugs in `tools.py`.
 
 ## Supports
 I have only tested the script with M3U and M3U8 playlist formats.
