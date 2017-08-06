@@ -1,0 +1,2 @@
+gmusicapi==10.1.3rc1
+chardet==1.1
