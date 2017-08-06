@@ -28,3 +28,6 @@ python import.py my-playlist.m3u
 
 ## What It Won't Do
 - Check if the playlist exists. This means if you run the same import twice, it will create a duplicate. Google isn't that fussy about unique names for playlists.
+
+## What I'd Like It To Do
+- What It Won't Do!
